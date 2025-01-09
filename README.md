@@ -67,7 +67,7 @@ The application is organized into several pages, each corresponding to the speci
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/MAUI_PublicationsApp.git
+   git clone https://github.com/Fuguety/Scientific-Publications-Management-App.git
 
 2. Ensure you have the following prerequisites installed:
 
